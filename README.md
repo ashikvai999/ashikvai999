@@ -2,8 +2,7 @@
 {{𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛}}{{{{𝗣𝗬𝗧𝗛𝗢𝗡 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗘𝗥}}}}
 
 ## 🌐 Socials:
-𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :https://www.facebook.com/profile.php?id=100085334091929
-
+𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :https://www.facebook.com/profile.php?id=100085574736324
 {{𝗔𝗦𝗛𝗜𝗞}}{{𝗖𝗬𝗕𝗘𝗥}}{{𝗞𝗜𝗡𝗚}}
 
 # 💻 Tech Stack:{{𝗔𝗦𝗛𝗜𝗞}}{{𝗖𝗬𝗕𝗘𝗥}}{{𝗞𝗜𝗡𝗚}}
